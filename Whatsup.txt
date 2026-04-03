@@ -1,0 +1,16 @@
+
+
+ 12 — 18 — 24 — 28 — 33 — 37 
+
+
+This is whatsup code:
+
+Author : bala
+
+1.Profile Page code
+
+2.chat Screen Code
+
+3.Last Seen Code
+
+4.Attachments(Image,audio,video) Code
