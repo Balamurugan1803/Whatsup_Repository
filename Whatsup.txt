@@ -20,5 +20,3 @@ Author : bala
 6.Status have been created
 
 7.DP have been changed
-
-8.Group of 100 Members have been added as a Group in Whatsup Feature.
