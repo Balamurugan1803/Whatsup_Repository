@@ -21,4 +21,4 @@ Author : bala
 
 7.DP have been changed
 
-8.Group of 100 Members have been added as a Group in Whatsup Feature.
+8.Group of 200 Members have been added as a Group in Whatsup Feature.
